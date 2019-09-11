@@ -1,9 +1,6 @@
 ![Ig-landscape](dev_notes/Ig-landscape.pdf)
 ---
 
-![Ig-portrait](dev_notes/Ig-portrait.pdf)
----
-
 The Pipeline Repertoire for Ig-seq Analysis
 ===========================================
 
