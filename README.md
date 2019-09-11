@@ -1,4 +1,6 @@
 ![Ig-landscape](dev_notes/Ig-landscape.pdf)
+---
+
 ![Ig-portrait](dev_notes/Ig-portrait.pdf)
 ---
 
