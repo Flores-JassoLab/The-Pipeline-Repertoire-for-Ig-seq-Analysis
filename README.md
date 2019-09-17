@@ -1,7 +1,7 @@
 The Pipeline Repertoire for Ig-seq Analysis
 ===========================================
 
-![Ig-image](dev_notes/The_pipeline_repertoire.jpeg)
+(dev_notes/The_pipeline_repertoire.jpeg)
 ---
 
 ## Reference
